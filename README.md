@@ -1,2 +1,2 @@
 # rjgamble-blog
-Blazor app presenting blog content.
+Blazor app presenting blog content powered by an Azure CosmosDB store.
